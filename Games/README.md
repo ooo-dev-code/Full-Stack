@@ -1,3 +1,3 @@
 # Mini-Games
 
-Best Games:
+<h2>Best Games:</h2>
