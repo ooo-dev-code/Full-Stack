@@ -1,4 +1,4 @@
-﻿# Full-Stack ( MERN stak )
+﻿# Full-Stack ( MERN stack )
  
 This is a list of all my full stacks projects.
 Click on the folder to get more precisions for the project.
