@@ -1,6 +1,6 @@
 ﻿# Full-Stack ( MERN stack )
  
-<br>This is a list of all my full stacks projects.</br>
+<br><h3>This is a list of all my full stacks projects.</h3></br>
 
 # Class Presentation
 
