@@ -7,12 +7,12 @@
 A site that I've made for a presentation and to trick my classmates.
 <br><a href="https://github.com/ooo-dev-code/ClassPresentation"> Class Presentation link</br>
 
-# Class Presentation
+# Flash Cards / AnkiWeb clone
 
 A site that I've made for a presentation and to trick my classmates.
 <br><a href="https://github.com/ooo-dev-code/ClassPresentation"> Class Presentation link</br>
 
-# Class Presentation
+# School Interface
 
 A site that I've made for a presentation and to trick my classmates.
 <br><a href="https://github.com/ooo-dev-code/ClassPresentation"> Class Presentation link</br>
