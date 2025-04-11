@@ -10,17 +10,17 @@ A site that I've made for a presentation and to trick my classmates.
 # Flash Cards / AnkiWeb clone
 
 A site that I've made for a presentation and to trick my classmates.
-<br><a href="https://github.com/ooo-dev-code/ClassPresentation"> Class Presentation link</br>
+<br><a href="https://github.com/ooo-dev-code/FlashCards"> FlashCards link</br>
 
 # School Interface
 
 A site that I've made for a presentation and to trick my classmates.
-<br><a href="https://github.com/ooo-dev-code/ClassPresentation"> Class Presentation link</br>
+<br><a href="https://github.com/ooo-dev-code/SchoolInterface"> SchoolInterface link</br>
 
 # Language learning app
 
 A site that I've made for a presentation and to trick my classmates.
-<br><a href="https://github.com/ooo-dev-code/ClassPresentation"> Class Presentation link</br>
+<br><a href="https://github.com/ooo-dev-code/LanguageApp"> LanguageApp link</br>
 
 
 
