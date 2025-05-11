@@ -22,6 +22,12 @@ A site to revise lessons.
 A site to clone my highschool's site.
 <br><a href="https://github.com/ooo-dev-code/SchoolInterface"> SchoolInterface link</br>
 
+# Company website
+ 
+A site where you can make commands for app, send news and add comments.
+<br><a href="https://github.com/ooo-dev-code/AuthMERNModel"> AuthModel link</br>
+
+
 
 
 
