@@ -25,7 +25,7 @@ A site to clone my highschool's site.
 # Company website
  
 A site where you can make commands for app, send news and add comments.
-<br><a href="https://github.com/ooo-dev-code/AuthMERNModel"> AuthModel link</br>
+<br><a href="https://github.com/ooo-dev-code/AuthMERNModel"> Company link</br>
 
 
 
