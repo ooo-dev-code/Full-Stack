@@ -1,6 +1,6 @@
 ﻿# Full-Stack ( MERN stack )
  
-<br><h3>This is a list of all my full stacks projects.</h3></br>
+<br><h3>This is a list of all my full stacks projects with the MERN stack</h3></br>
 
 # AuthModel MERN
  
